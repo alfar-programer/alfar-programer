@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-My name is Mazen, I’m 18 years old, and I’m currently a student at the Faculty of Engineering. My journey in programming began four years ago, and I’ve been passionate about it ever since. Three years ago, I decided to specialize in Front-End Development, and now I have three years of hands-on experience in the field.<br><br>I love exploring new ideas, learning from mistakes, and gaining insights from those around me. I’ve completed HTML, CSS, JavaScript, React, and mastered Git and GitHub. Recently, I’ve taken my first steps into Back-End Development with Node.js, and I’m committed to continuous growth to achieve my ultimate dream of becoming a millionaire and making a lasting impact in the tech world.
+My name is Mazen, I’m 19 years old, and I’m currently a student at the Faculty of Engineering. My journey in programming began four years ago, and I’ve been passionate about it ever since. Three years ago, I decided to specialize in Front-End Development, and now I have 4 years of hands-on experience in the field.<br><br>I love exploring new ideas, learning from mistakes, and gaining insights from those around me. I’ve completed HTML, CSS, JavaScript, React, and mastered Git and GitHub. Recently, I’ve taken my first steps into Back-End Development with Node.js, and I’m committed to continuous growth to achieve my ultimate dream of becoming a millionaire and making a lasting impact in the tech world.
 
 
 ## 🌐 Socials:
